@@ -1,0 +1,27 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "This package used for learning purposes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kativanova/frontend-project-lvl1.git"
+  },
+  "keywords": [
+    "brain",
+    "games"
+  ],
+  "author": "Katya Ivanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kativanova/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/kativanova/frontend-project-lvl1#readme"
+}
